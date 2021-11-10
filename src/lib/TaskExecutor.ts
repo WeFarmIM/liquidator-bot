@@ -1,4 +1,4 @@
-import { delay } from './delay';
+import { delay } from './Delay';
 
 export default class TaskExecutor {
     killed: boolean;
